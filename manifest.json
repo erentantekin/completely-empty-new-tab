@@ -1,0 +1,10 @@
+{
+  "name": "​Minimalist New Tab",
+  "version": "1.0",
+  "description": "Replaces new tabs with empty black/white pages",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": {},
+  "manifest_version": 3
+}
