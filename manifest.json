@@ -1,5 +1,5 @@
 {
-  "name": "Completely Empty New Tab",
+  "name": "​Completely Empty New Tab",
   "version": "1.0",
   "description": "Replaces new tabs with an empty black/white page",
   "chrome_url_overrides": {
